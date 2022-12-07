@@ -3,7 +3,17 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-07T11:12:53.974608+02:00"
+    created: "2022-12-07T11:34:47.457788+02:00"
+    description: A Helm chart for Kubernetes update
+    digest: 1b112ea6927143bcf55d22da0a1119cdee874a7ee8503edf4b6c970b67efc164
+    name: helm-chart-test
+    type: application
+    urls:
+    - http://nelynehemia.github.io/helm-chart/helm-chart-test-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-07T11:34:47.457202+02:00"
     description: A Helm chart for Kubernetes
     digest: 1300f3c930f89a3d1323abac9be5805a9850b30f20d34ae467f730d0c8bfc01d
     name: helm-chart-test
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-07T11:12:53.973991+02:00"
+    created: "2022-12-07T11:34:47.455694+02:00"
     description: A Helm chart for Kubernetes
     digest: ed35f40d7378db8189c401f56a13cc390f85a3244bf0a05aac4aba9076e8bd63
     name: helm-chart-test
@@ -21,4 +31,4 @@ entries:
     urls:
     - http://nelynehemia.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-07T11:12:53.972688+02:00"
+generated: "2022-12-07T11:34:47.452064+02:00"
