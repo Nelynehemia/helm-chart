@@ -39,7 +39,7 @@ securityContext: {}
 service:
   type: ClusterIP
   port: 80
-  name: test-nely
+  name: test-nely2
 
 ingress:
   enabled: false
