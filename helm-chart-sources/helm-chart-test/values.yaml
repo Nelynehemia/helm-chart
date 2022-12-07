@@ -39,6 +39,7 @@ securityContext: {}
 service:
   type: ClusterIP
   port: 80
+  name: test
 
 ingress:
   enabled: false
@@ -80,3 +81,5 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+
