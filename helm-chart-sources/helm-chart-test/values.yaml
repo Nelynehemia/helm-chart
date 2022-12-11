@@ -41,6 +41,7 @@ service:
   port: 80
   name: testnely21
 
+
 ingress:
   enabled: false
   className: ""
